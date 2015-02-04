@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomation", "TestAutomation\TestAutomation.csproj", "{11440E81-62F7-43DF-9134-CC0B46AE5A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomationFindigElements", "TestAutomationFindigElements\TestAutomationFindigElements.csproj", "{4B907DEE-51E3-4D86-BB5F-BA9624EB5CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomationFirefoxDriver", "FirefoxDriver\TestAutomationFirefoxDriver.csproj", "{0ABC937B-B0DE-45E4-84F7-3066071B93D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedUserInteractions", "AdvancedUserInteractions\AdvancedUserInteractions.csproj", "{9236C520-9EC6-4EFD-A203-3EB768966835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgileTravelUITests", "AgileTravelUITests\AgileTravelUITests.csproj", "{3BE9A1B3-B720-447F-991E-A3D24AC05DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11440E81-62F7-43DF-9134-CC0B46AE5A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11440E81-62F7-43DF-9134-CC0B46AE5A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11440E81-62F7-43DF-9134-CC0B46AE5A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11440E81-62F7-43DF-9134-CC0B46AE5A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B907DEE-51E3-4D86-BB5F-BA9624EB5CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B907DEE-51E3-4D86-BB5F-BA9624EB5CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B907DEE-51E3-4D86-BB5F-BA9624EB5CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B907DEE-51E3-4D86-BB5F-BA9624EB5CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABC937B-B0DE-45E4-84F7-3066071B93D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABC937B-B0DE-45E4-84F7-3066071B93D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABC937B-B0DE-45E4-84F7-3066071B93D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABC937B-B0DE-45E4-84F7-3066071B93D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9236C520-9EC6-4EFD-A203-3EB768966835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9236C520-9EC6-4EFD-A203-3EB768966835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9236C520-9EC6-4EFD-A203-3EB768966835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9236C520-9EC6-4EFD-A203-3EB768966835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE9A1B3-B720-447F-991E-A3D24AC05DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE9A1B3-B720-447F-991E-A3D24AC05DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE9A1B3-B720-447F-991E-A3D24AC05DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE9A1B3-B720-447F-991E-A3D24AC05DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
