@@ -52,6 +52,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\LoginForm.cs" />
+    <Compile Include="Classes\RegistrationForm.cs" />
+    <Compile Include="Classes\StartPage.cs" />
     <Compile Include="GmailTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
